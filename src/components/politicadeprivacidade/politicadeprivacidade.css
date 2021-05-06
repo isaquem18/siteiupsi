@@ -1,0 +1,34 @@
+.politicadeprivacidade{
+    font-family: sans-serif;
+    align-items: center;
+}
+
+.iupsi-menu{
+    background-color: #4a3288;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    font-family: sans-serif;
+    color: #8e7bd1;
+}
+
+.subtitle {
+    font-family: sans-serif;
+}
+
+.iupsi-menu a.experimenteja{
+    background-color: #8071e2;
+    border-radius: 10px;
+}
+.iupsi-menu a{
+    background-color: #4a3288;
+    text-decoration: none;
+    color:cornsilk;
+    margin-right: 60px;
+
+};
+
+
